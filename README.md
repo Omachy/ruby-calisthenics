@@ -256,7 +256,7 @@ Under this scenario, Dave would beat Armando (S>P) and Richard would
 beat Michael (R>S), so Dave and Richard would play (Richard wins since
 R>S); similarly, Allen would beat Omer, David E. would beat Richard X.,
 and Allen and Richard X. would play (Allen wins since S>P); and finally
-Richard would beat Allen since R>P.  That is, pairwise play continues
+Richard would beat Allen since R>S.  That is, pairwise play continues
 until there is only a single winner. 
 
 Write a method `RockPaperScissors.tournament_winner'
